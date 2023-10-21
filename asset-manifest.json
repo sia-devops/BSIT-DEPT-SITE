@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bsit-dept-site/static/css/main.f87db60f.css",
+    "main.js": "/bsit-dept-site/static/js/main.10a6843b.js",
+    "static/js/496.0320d045.chunk.js": "/bsit-dept-site/static/js/496.0320d045.chunk.js",
+    "index.html": "/bsit-dept-site/index.html",
+    "main.f87db60f.css.map": "/bsit-dept-site/static/css/main.f87db60f.css.map",
+    "main.10a6843b.js.map": "/bsit-dept-site/static/js/main.10a6843b.js.map",
+    "496.0320d045.chunk.js.map": "/bsit-dept-site/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87db60f.css",
+    "static/js/main.10a6843b.js"
+  ]
+}
