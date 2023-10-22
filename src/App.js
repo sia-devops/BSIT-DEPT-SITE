@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codeasdfspaces <span className="heart">♥️</span> React
+          GitHub Codeasdf spaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
