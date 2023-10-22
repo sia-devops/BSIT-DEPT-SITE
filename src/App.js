@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="Octocat.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codeasdf spaces <span className="heart">♥️</span> React
+          Hello BSIT 4A Xamarin
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
